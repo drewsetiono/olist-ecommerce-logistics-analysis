@@ -25,17 +25,17 @@ Stakeholders noticed fluctuating customer satisfaction scores but could not pinp
 ### 1. The Timeline of a Crisis (March 2018)
 Anomaly detection flagged a massive 21.4% late delivery rate in March 2018 (nearly 3x the baseline). This data maps perfectly to a real-world historical event: the nationwide Brazilian postal strike. 
 
-<img width="1184" height="584" alt="image" src="https://github.com/user-attachments/assets/cc048c9c-350f-405f-8425-f64cc61e795c" />
+<img width="1184" height="584" alt="image" src="https://github.com/user-attachments/assets/2d1d0558-48b7-40ff-a85e-06d362f579d7" />
 
 ### 2. The Geographic Bottleneck
 By filtering for cities with high order volumes, we identified that the logistics network in Maceió is completely failing, with nearly 30% of all packages arriving late. This proves the issue is a regional routing failure, not a company-wide standard.
 
-<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/5b895c2f-d2b7-4374-a121-08c9568c752b" />
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/23c1a368-2039-496a-affc-2403f3f637eb" />
 
 ### 3. The "Trap Product" Effect
 By mapping the late delivery rate against the average review score for high-volume categories, we found a clear negative correlation. Categories with the worst shipping times (like Office Furniture and Babies) are heavily penalised in customer reviews, proving that slow shipping actively destroys product ratings.
 
-<img width="980" height="584" alt="image" src="https://github.com/user-attachments/assets/3e55c13a-fb5f-4e1e-8b39-44356902927f" />
+<img width="980" height="584" alt="image" src="https://github.com/user-attachments/assets/d3a54c10-ae92-4fb4-aace-1fbc38343a4a" />
 
 ## 🚀 Business Recommendations & Next Steps
 While this analysis identifies the macro-level bottlenecks, further investigation is required to solve them. If granted access to warehouse-level data and carrier Service Level Agreements (SLAs), the next steps would be:
